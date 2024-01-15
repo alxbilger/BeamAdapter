@@ -11,6 +11,11 @@ var hierarchy =
       [ "MultiAdaptiveBeamContactMapper< TCollisionModel, DataTypes >", "classsofa_1_1component_1_1collision_1_1_multi_adaptive_beam_contact_mapper.html", null ]
     ] ],
     [ "BaseObject", null, [
+      [ "BaseRodSectionMaterial< DataTypes >", "classsofa_1_1beamadapter_1_1_base_rod_section_material.html", [
+        [ "RodMeshSection< DataTypes >", "classsofa_1_1beamadapter_1_1_rod_mesh_section.html", null ],
+        [ "RodSpireSection< DataTypes >", "classsofa_1_1beamadapter_1_1_rod_spire_section.html", null ],
+        [ "RodStraightSection< DataTypes >", "classsofa_1_1beamadapter_1_1_rod_straight_section.html", null ]
+      ] ],
       [ "WireRestShape< DataTypes >", "classsofa_1_1component_1_1engine_1_1__wirerestshape___1_1_wire_rest_shape.html", [
         [ "SteerableCatheter< DataTypes >", "classsofa_1_1component_1_1engine_1_1_steerable_catheter.html", null ]
       ] ]
@@ -27,12 +32,6 @@ var hierarchy =
       [ "ImplicitSurfaceAdaptiveConstraintResolution< DataTypes >", "classsofa_1_1component_1_1constraint_1_1__implicitsurfaceadaptiveconstraint___1_1_implicit_surfa1356ca7fd440062f64bc429b52b78571.html", null ]
     ] ],
     [ "ContactMapper", "class_contact_mapper.html", null ],
-    [ "GenericConstraintProblem", null, [
-      [ "UnbuiltGenericConstraintProblem", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_problem.html", null ]
-    ] ],
-    [ "GenericConstraintSolver", null, [
-      [ "UnbuiltGenericConstraintSolver", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_solver.html", null ]
-    ] ],
     [ "IntervalDefinition< Real >", "classsofa_1_1component_1_1constraintset_1_1__adaptivebeamlengthconstraint___1_1_interval_definition.html", null ],
     [ "Mapping", null, [
       [ "MultiAdaptiveBeamMapping< TIn, TOut >", "classsofa_1_1component_1_1mapping_1_1_multi_adaptive_beam_mapping.html", null ]
@@ -46,11 +45,14 @@ var hierarchy =
       [ "InterventionalRadiologyController< DataTypes >", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html", null ],
       [ "SutureController< DataTypes >", "classsofa_1_1component_1_1controller_1_1__suturecontroller___1_1_suture_controller.html", null ]
     ] ],
+    [ "Multi2Mapping", null, [
+      [ "BeamProjectionDifferenceMultiMapping< TIn1, TIn2, TOut >", "classbeamadapter_1_1mapping_1_1_beam_projection_difference_multi_mapping.html", null ]
+    ] ],
     [ "PairInteractionConstraint", null, [
       [ "ImplicitSurfaceAdaptiveConstraint< DataTypes >", "classsofa_1_1component_1_1constraint_1_1__implicitsurfaceadaptiveconstraint___1_1_implicit_surface_adaptive_constraint.html", null ]
     ] ],
     [ "AdaptiveBeamMapping< TIn, TOut >::PosPointDefinition", "structsofa_1_1component_1_1mapping_1_1__adaptivebeammapping___1_1_adaptive_beam_mapping_1_1_pos_point_definition.html", null ],
-    [ "ProjectionSearch< DataTypes >", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_projection_search.html", null ],
+    [ "ProjectionSearch< DataTypes >", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_projection_search.html", null ],
     [ "BaseObject", null, [
       [ "DeprecatedComponent", "classsofa_1_1component_1_1_deprecated_component.html", [
         [ "AdaptiveBeamConstraint", "class_adaptive_beam_constraint.html", null ]

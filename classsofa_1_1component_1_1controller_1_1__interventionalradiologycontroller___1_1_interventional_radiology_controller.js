@@ -26,7 +26,6 @@ var classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller_
     [ "getTotalNbEdges", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#af01ae8b6e3fe216bc981be58d3cb8744", null ],
     [ "init", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#ad72eef1561c7a53b19b048397d4ef570", null ],
     [ "interventionalRadiologyCollisionControls", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#ab413a53e3dac3a8bebfaa97be7d5d095", null ],
-    [ "interventionalRadiologyComputeSampling", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a4971670fd87b61e3ae043dfef7b425ba", null ],
     [ "loadMotionData", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a2b741ee1dc3c59518e148dbf143e4d3e", null ],
     [ "modifyTopology", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#aec003e89fabe2956569495a20dd40144", null ],
     [ "onBeginAnimationStep", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a48a6b5fc8981006bbf7b84b78696c40e", null ],
@@ -34,8 +33,8 @@ var classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller_
     [ "onMouseEvent", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a09b156aa7b37b61bd03d45d19f40213c", null ],
     [ "processDrop", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a98a1e72c60c9e5c530cb013fd6813d5a", null ],
     [ "SOFA_CLASS", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a122c8cb3190fb3b740d604f05c7c6ae1", null ],
-    [ "sortCurvAbs", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#af67e602b6b3407115309289385947252", null ],
     [ "totalLengthIsChanging", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#afa008a24fee79ec18101e81df4406535", null ],
+    [ "useBeamAction", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a78aead3ead588b5daf74467868bc9fc9", null ],
     [ "d_angularStep", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#aac9b2b5ddd2ba58fa59126fffb789ab7", null ],
     [ "d_controlledInstrument", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a32a524ae9e68a8854f88cec5ae8eb7b4", null ],
     [ "d_indexFirstNode", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a0431481cea257a1c3284591fdeb40443", null ],
@@ -50,8 +49,6 @@ var classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller_
     [ "d_xTip", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a56d40385ca097a816092aafe8b07fa53", null ],
     [ "m_activatedPointsBuf", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#aa57cca3ded28b9c310eccbc079d04462", null ],
     [ "m_currentSensorData", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#adcf3dadc7d1fbb6504894156dc47b56d", null ],
-    [ "m_dropCall", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#aca31e52aa864b2fdde887da33ef17015", null ],
-    [ "m_droppedInstruments", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a50c056d1f8978624fb432fd1ae1d88e3", null ],
     [ "m_FF", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a052d2f15f1c72796c27d7024ee614224", null ],
     [ "m_fixedConstraint", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#aa2b1c8bf8024be526c03d57bbc050798", null ],
     [ "m_idInstrumentCurvAbsTable", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#ad1b5988d25510ba24eab9ddb3c77a726", null ],
@@ -60,5 +57,6 @@ var classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller_
     [ "m_numControlledNodes", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a65c744ced4bcf54f2aa5d071a47ae164", null ],
     [ "m_RW", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a89c7a98cd26ebfa3fb8469a8a7f9efc9", null ],
     [ "m_sensored", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#ad40669507fa0211fd9dff496da6812b9", null ],
-    [ "m_sensorMotionData", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a70dd846456f2f9b257c75e4eea5650ee", null ]
+    [ "m_sensorMotionData", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a70dd846456f2f9b257c75e4eea5650ee", null ],
+    [ "m_useBeamActions", "classsofa_1_1component_1_1controller_1_1__interventionalradiologycontroller___1_1_interventional_radiology_controller.html#a8ac40a2fe2588920c4bb4c56f314fb0d", null ]
 ];

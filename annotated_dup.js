@@ -1,7 +1,16 @@
 var annotated_dup =
 [
+    [ "beamadapter", null, [
+      [ "mapping", null, [
+        [ "BeamProjectionDifferenceMultiMapping", "classbeamadapter_1_1mapping_1_1_beam_projection_difference_multi_mapping.html", "classbeamadapter_1_1mapping_1_1_beam_projection_difference_multi_mapping" ]
+      ] ]
+    ] ],
     [ "sofa", "namespacesofa.html", [
       [ "beamadapter", null, [
+        [ "BaseRodSectionMaterial", "classsofa_1_1beamadapter_1_1_base_rod_section_material.html", "classsofa_1_1beamadapter_1_1_base_rod_section_material" ],
+        [ "RodMeshSection", "classsofa_1_1beamadapter_1_1_rod_mesh_section.html", "classsofa_1_1beamadapter_1_1_rod_mesh_section" ],
+        [ "RodSpireSection", "classsofa_1_1beamadapter_1_1_rod_spire_section.html", "classsofa_1_1beamadapter_1_1_rod_spire_section" ],
+        [ "RodStraightSection", "classsofa_1_1beamadapter_1_1_rod_straight_section.html", "classsofa_1_1beamadapter_1_1_rod_straight_section" ],
         [ "BeamSection", "structsofa_1_1beamadapter_1_1_beam_section.html", "structsofa_1_1beamadapter_1_1_beam_section" ]
       ] ],
       [ "component", null, [
@@ -25,10 +34,9 @@ var annotated_dup =
           ] ],
           [ "_adaptiveBeamSlidingConstraint_", "namespacesofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint__.html", [
             [ "AdaptiveBeamSlidingConstraint", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_adaptive_beam_sliding_constraint.html", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_adaptive_beam_sliding_constraint" ],
+            [ "ProjectionSearch", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_projection_search.html", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_projection_search" ],
             [ "AdaptiveBeamSlidingConstraintResolution", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_adaptive_beam_sliding_constraint_resolution.html", "classsofa_1_1component_1_1constraintset_1_1__adaptive_beam_sliding_constraint___1_1_adaptive_beam_sliding_constraint_resolution" ]
-          ] ],
-          [ "UnbuiltGenericConstraintProblem", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_problem.html", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_problem" ],
-          [ "UnbuiltGenericConstraintSolver", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_solver.html", "classsofa_1_1component_1_1constraintset_1_1_unbuilt_generic_constraint_solver" ]
+          ] ]
         ] ],
         [ "controller", "namespacesofa_1_1component_1_1controller.html", [
           [ "_adaptivebeamcontroller_", "namespacesofa_1_1component_1_1controller_1_1__adaptivebeamcontroller__.html", [
@@ -53,8 +61,7 @@ var annotated_dup =
             [ "BeamInterpolation", "classsofa_1_1component_1_1fem_1_1__beaminterpolation___1_1_beam_interpolation.html", "classsofa_1_1component_1_1fem_1_1__beaminterpolation___1_1_beam_interpolation" ]
           ] ],
           [ "_wirebeaminterpolation_", null, [
-            [ "WireBeamInterpolation", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_wire_beam_interpolation.html", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_wire_beam_interpolation" ],
-            [ "ProjectionSearch", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_projection_search.html", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_projection_search" ]
+            [ "WireBeamInterpolation", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_wire_beam_interpolation.html", "classsofa_1_1component_1_1fem_1_1__wirebeaminterpolation___1_1_wire_beam_interpolation" ]
           ] ]
         ] ],
         [ "forcefield", "namespacesofa_1_1component_1_1forcefield.html", [
