@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['multiadaptivebeamcontactmapper_0',['MultiAdaptiveBeamContactMapper',['../classsofa_1_1component_1_1collision_1_1_multi_adaptive_beam_contact_mapper.html',1,'sofa::component::collision']]],
-  ['multiadaptivebeamcontactmapper_3c_20bsplinemodel_3c_202_20_3e_2c_20datatypes_20_3e_1',['MultiAdaptiveBeamContactMapper&lt; BSplineModel&lt; 2 &gt;, DataTypes &gt;',['../classsofa_1_1component_1_1collision_1_1_multi_adaptive_beam_contact_mapper.html',1,'sofa::component::collision']]],
-  ['multiadaptivebeammapping_2',['MultiAdaptiveBeamMapping',['../classsofa_1_1component_1_1mapping_1_1_multi_adaptive_beam_mapping.html',1,'sofa::component::mapping']]]
+  ['pospointdefinition_0',['PosPointDefinition',['../structbeamadapter_1_1_adaptive_beam_mapping_1_1_pos_point_definition.html',1,'beamadapter::AdaptiveBeamMapping']]],
+  ['projectionsearch_1',['ProjectionSearch',['../classbeamadapter_1_1_projection_search.html',1,'beamadapter']]]
 ];

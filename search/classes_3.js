@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['deprecatedcomponent_0',['DeprecatedComponent',['../classsofa_1_1component_1_1_deprecated_component.html',1,'sofa::component']]]
+  ['intervaldefinition_0',['IntervalDefinition',['../classbeamadapter_1_1_interval_definition.html',1,'beamadapter']]],
+  ['interventionalradiologycontroller_1',['InterventionalRadiologyController',['../classbeamadapter_1_1_interventional_radiology_controller.html',1,'beamadapter']]]
 ];
