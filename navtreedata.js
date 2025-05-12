@@ -90,6 +90,7 @@ var NAVTREE =
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
+        [ "Functions", "namespacemembers_func.html", null ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ]
       ] ]
@@ -113,8 +114,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_adaptive_beam_controller_8h_source.html",
-"classbeamadapter_1_1_base_rod_section_material.html#aa123ceac868b5e59ba5ce9c99ac559f4",
-"classbeamadapter_1_1_wire_rest_shape.html#a7293515ade2b3aa4581c054e88d1953a"
+"classbeamadapter_1_1_base_rod_section_material.html#a912ffe2cff4e3e9240a40cc91960cfb0",
+"classbeamadapter_1_1_wire_rest_shape.html#a7f07516babe1a28738db8fad4f26b0b7"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
